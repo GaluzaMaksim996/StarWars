@@ -1,1 +1,1 @@
-export const REPO_NAME = "StarWars"
+export const REPO_NAME = "star-wars"
